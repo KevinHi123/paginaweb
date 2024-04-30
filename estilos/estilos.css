@@ -1,0 +1,19 @@
+.menu{
+    justify-content: center;
+    background-color: blue;
+}
+
+.menu nav ul a{
+    
+    margin-left: 20px;
+    font-size: 19px;
+    color: black;
+    font-weight: 600;
+    padding: 10px;
+}
+
+.menu nav ul h1{
+    text-align: center;
+    text-decoration: solid red;
+}
+
